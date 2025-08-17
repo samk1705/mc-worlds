@@ -9,25 +9,27 @@
     "criteria": {
       "minecraft:cold_ocean": "2025-04-06 17:29:51 -0700",
       "minecraft:snowy_slopes": "2025-04-06 15:30:07 -0700",
-      "minecraft:beach": "2025-04-06 17:29:49 -0700",
-      "minecraft:dark_forest": "2025-04-06 15:28:24 -0700",
       "minecraft:forest": "2025-04-06 15:17:09 -0700",
       "minecraft:taiga": "2025-04-06 15:23:44 -0700",
+      "minecraft:lush_caves": "2025-04-06 15:25:47 -0700",
+      "minecraft:ice_spikes": "2025-04-06 15:26:54 -0700",
+      "minecraft:frozen_ocean": "2025-08-13 23:28:42 -0700",
+      "minecraft:frozen_river": "2025-04-06 15:26:37 -0700",
+      "minecraft:ocean": "2025-07-29 15:44:30 -0700",
+      "minecraft:cherry_grove": "2025-04-06 15:19:02 -0700",
+      "minecraft:birch_forest": "2025-04-06 15:28:00 -0700",
+      "minecraft:windswept_hills": "2025-04-06 17:26:26 -0700",
+      "minecraft:beach": "2025-04-06 17:29:49 -0700",
+      "minecraft:dark_forest": "2025-04-06 15:28:24 -0700",
       "minecraft:river": "2025-04-06 15:18:44 -0700",
       "minecraft:snowy_plains": "2025-04-06 15:26:41 -0700",
-      "minecraft:lush_caves": "2025-04-06 15:25:47 -0700",
+      "minecraft:stony_shore": "2025-08-13 23:28:41 -0700",
       "minecraft:dripstone_caves": "2025-04-06 15:22:24 -0700",
       "minecraft:snowy_taiga": "2025-04-06 15:24:34 -0700",
       "minecraft:frozen_peaks": "2025-04-06 17:40:20 -0700",
-      "minecraft:ice_spikes": "2025-04-06 15:26:54 -0700",
       "minecraft:old_growth_birch_forest": "2025-04-06 15:28:21 -0700",
-      "minecraft:frozen_river": "2025-04-06 15:26:37 -0700",
       "minecraft:deep_dark": "2025-04-12 19:28:05 -0700",
-      "minecraft:ocean": "2025-07-29 15:44:30 -0700",
-      "minecraft:cherry_grove": "2025-04-06 15:19:02 -0700",
       "minecraft:grove": "2025-04-06 17:34:29 -0700",
-      "minecraft:birch_forest": "2025-04-06 15:28:00 -0700",
-      "minecraft:windswept_hills": "2025-04-06 17:26:26 -0700",
       "minecraft:plains": "2025-04-06 15:18:29 -0700",
       "minecraft:jagged_peaks": "2025-04-06 17:34:19 -0700",
       "minecraft:pale_garden": "2025-04-06 15:27:55 -0700"
@@ -5665,6 +5667,198 @@
   "minecraft:recipes/decorations/yellow_stained_glass_pane": {
     "criteria": {
       "has_glass": "2025-08-12 20:17:05 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2025-08-13 23:26:47 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2025-08-13 23:26:47 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/trapped_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2025-08-13 23:40:45 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_banner": {
+    "criteria": {
+      "has_yellow_wool": "2025-08-14 17:12:40 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_bed": {
+    "criteria": {
+      "has_yellow_wool": "2025-08-14 17:12:40 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_carpet": {
+    "criteria": {
+      "has_yellow_wool": "2025-08-14 17:12:40 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_bed": {
+    "criteria": {
+      "has_green_wool": "2025-08-14 17:12:41 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_banner": {
+    "criteria": {
+      "has_green_wool": "2025-08-14 17:12:41 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_carpet": {
+    "criteria": {
+      "has_green_wool": "2025-08-14 17:12:41 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/magenta_carpet": {
+    "criteria": {
+      "has_magenta_wool": "2025-08-14 17:12:45 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/magenta_banner": {
+    "criteria": {
+      "has_magenta_wool": "2025-08-14 17:12:45 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/magenta_bed": {
+    "criteria": {
+      "has_magenta_wool": "2025-08-14 17:12:45 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lime_carpet": {
+    "criteria": {
+      "has_lime_wool": "2025-08-14 17:12:50 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lime_banner": {
+    "criteria": {
+      "has_lime_wool": "2025-08-14 17:12:50 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lime_bed": {
+    "criteria": {
+      "has_lime_wool": "2025-08-14 17:12:50 -0700"
+    },
+    "done": true
+  },
+  "minecraft:adventure/read_power_of_chiseled_bookshelf": {
+    "criteria": {
+      "comparator": "2025-08-14 17:24:05 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2025-08-14 19:05:32 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2025-08-14 19:05:35 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_bed": {
+    "criteria": {
+      "has_pink_wool": "2025-08-14 19:19:54 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_carpet": {
+    "criteria": {
+      "has_pink_wool": "2025-08-14 19:19:54 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_banner": {
+    "criteria": {
+      "has_pink_wool": "2025-08-14 19:19:54 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_bed": {
+    "criteria": {
+      "has_orange_wool": "2025-08-14 19:19:56 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_banner": {
+    "criteria": {
+      "has_orange_wool": "2025-08-14 19:19:56 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_carpet": {
+    "criteria": {
+      "has_orange_wool": "2025-08-14 19:19:56 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/black_bundle": {
+    "criteria": {
+      "has_black_dye": "2025-08-15 01:31:01 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/dye_black_harness": {
+    "criteria": {
+      "has_needed_dye": "2025-08-15 01:31:01 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dye_black_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-08-15 01:31:01 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dye_black_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-08-15 01:31:01 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_candle": {
+    "criteria": {
+      "has_black_dye": "2025-08-15 01:31:01 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_black_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-08-15 01:31:01 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2025-08-15 01:59:36 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2025-08-15 01:59:36 -0700"
     },
     "done": true
   },
