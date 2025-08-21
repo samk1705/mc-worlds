@@ -5862,5 +5862,11 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/waxed_oxidized_copper_door_from_honeycomb": {
+    "criteria": {
+      "has_oxidized_copper_door": "2025-08-20 22:46:22 -0700"
+    },
+    "done": true
+  },
   "DataVersion": 4440
 }
