@@ -5874,5 +5874,449 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/orange_bundle": {
+    "criteria": {
+      "has_orange_dye": "2025-08-23 23:06:58 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/magenta_bundle": {
+    "criteria": {
+      "has_magenta_dye": "2025-08-23 23:06:51 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dye_yellow_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-08-23 23:06:54 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/dye_gray_harness": {
+    "criteria": {
+      "has_needed_dye": "2025-08-23 23:06:50 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dye_blue_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-08-23 23:06:48 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dye_magenta_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-08-23 23:06:51 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_blue_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-08-23 23:06:48 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dye_gray_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-08-23 23:06:50 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_candle": {
+    "criteria": {
+      "has_orange_dye": "2025-08-23 23:06:58 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/dye_light_gray_harness": {
+    "criteria": {
+      "has_needed_dye": "2025-08-23 23:10:54 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/dye_white_harness": {
+    "criteria": {
+      "has_needed_dye": "2025-08-23 23:11:50 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/green_bundle": {
+    "criteria": {
+      "has_green_dye": "2025-08-23 23:06:53 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/cyan_dye": {
+    "criteria": {
+      "has_blue_dye": "2025-08-23 23:06:48 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dye_light_blue_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-08-23 23:11:52 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_candle": {
+    "criteria": {
+      "has_cyan_dye": "2025-08-23 23:10:50 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dye_light_gray_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-08-23 23:10:54 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_red_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-08-23 23:10:49 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dye_yellow_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-08-23 23:06:54 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_light_blue_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-08-23 23:11:52 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_light_gray_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-08-23 23:10:54 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/purple_dye": {
+    "criteria": {
+      "has_blue_dye": "2025-08-23 23:06:48 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/dye_pink_harness": {
+    "criteria": {
+      "has_needed_dye": "2025-08-23 23:09:33 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/orange_dye_from_red_yellow": {
+    "criteria": {
+      "has_yellow_dye": "2025-08-23 23:06:54 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_candle": {
+    "criteria": {
+      "has_blue_dye": "2025-08-23 23:06:48 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dye_red_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-08-23 23:10:49 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_magenta_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-08-23 23:06:51 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dye_pink_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-08-23 23:09:33 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/dye_green_harness": {
+    "criteria": {
+      "has_needed_dye": "2025-08-23 23:06:53 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_candle": {
+    "criteria": {
+      "has_red_dye": "2025-08-23 23:10:49 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dye_gray_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-08-23 23:06:50 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/light_gray_bundle": {
+    "criteria": {
+      "has_light_gray_dye": "2025-08-23 23:10:54 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dye_white_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-08-23 23:11:50 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dye_light_gray_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-08-23 23:10:54 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_pink": {
+    "criteria": {
+      "has_blue_dye": "2025-08-23 23:06:48 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_candle": {
+    "criteria": {
+      "has_yellow_dye": "2025-08-23 23:06:54 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dye_green_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-08-23 23:06:53 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_cyan_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-08-23 23:10:50 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dye_cyan_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-08-23 23:10:50 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dye_orange_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-08-23 23:06:58 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_candle": {
+    "criteria": {
+      "has_pink_dye": "2025-08-23 23:09:33 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_candle": {
+    "criteria": {
+      "has_light_gray_dye": "2025-08-23 23:10:54 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/red_bundle": {
+    "criteria": {
+      "has_red_dye": "2025-08-23 23:10:49 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_orange_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-08-23 23:06:58 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/blue_bundle": {
+    "criteria": {
+      "has_blue_dye": "2025-08-23 23:06:48 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dye_cyan_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-08-23 23:10:50 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dye_red_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-08-23 23:10:49 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_pink_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-08-23 23:09:33 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/dye_magenta_harness": {
+    "criteria": {
+      "has_needed_dye": "2025-08-23 23:06:51 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dye_orange_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-08-23 23:06:58 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_purple_and_pink": {
+    "criteria": {
+      "has_pink_dye": "2025-08-23 23:09:33 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dye_white_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-08-23 23:11:50 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_yellow_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-08-23 23:06:54 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/dye_orange_harness": {
+    "criteria": {
+      "has_needed_dye": "2025-08-23 23:06:58 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/dye_red_harness": {
+    "criteria": {
+      "has_needed_dye": "2025-08-23 23:10:49 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/yellow_bundle": {
+    "criteria": {
+      "has_yellow_dye": "2025-08-23 23:06:54 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dye_blue_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-08-23 23:06:48 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/dye_yellow_harness": {
+    "criteria": {
+      "has_needed_dye": "2025-08-23 23:06:54 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dye_pink_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-08-23 23:09:33 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/pink_bundle": {
+    "criteria": {
+      "has_pink_dye": "2025-08-23 23:09:33 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/gray_bundle": {
+    "criteria": {
+      "has_gray_dye": "2025-08-23 23:06:50 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/dye_cyan_harness": {
+    "criteria": {
+      "has_needed_dye": "2025-08-23 23:10:50 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dye_magenta_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-08-23 23:06:51 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/magenta_candle": {
+    "criteria": {
+      "has_magenta_dye": "2025-08-23 23:06:51 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_gray_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-08-23 23:06:50 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dye_light_blue_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-08-23 23:11:52 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/cyan_bundle": {
+    "criteria": {
+      "has_cyan_dye": "2025-08-23 23:10:50 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/dye_light_blue_harness": {
+    "criteria": {
+      "has_needed_dye": "2025-08-23 23:11:52 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_candle": {
+    "criteria": {
+      "has_green_dye": "2025-08-23 23:06:53 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dye_green_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-08-23 23:06:53 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_green_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-08-23 23:06:53 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_blue_candle": {
+    "criteria": {
+      "has_light_blue_dye": "2025-08-23 23:11:52 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_candle": {
+    "criteria": {
+      "has_gray_dye": "2025-08-23 23:06:50 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/dye_blue_harness": {
+    "criteria": {
+      "has_needed_dye": "2025-08-23 23:06:48 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/light_blue_bundle": {
+    "criteria": {
+      "has_light_blue_dye": "2025-08-23 23:11:52 -0700"
+    },
+    "done": true
+  },
   "DataVersion": 4440
 }
