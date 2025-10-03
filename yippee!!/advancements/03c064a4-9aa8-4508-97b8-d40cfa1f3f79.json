@@ -4015,12 +4015,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/chain": {
-    "criteria": {
-      "has_iron_ingot": "2025-04-26 23:08:30 -0700"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/iron_block": {
     "criteria": {
       "has_iron_ingot": "2025-04-26 23:08:30 -0700"
@@ -5020,6 +5014,7 @@
   "minecraft:husbandry/complete_catalogue": {
     "criteria": {
       "minecraft:white": "2025-06-09 22:29:47 -0700",
+      "minecraft:siamese": "2025-09-29 00:20:05 -0700",
       "minecraft:jellie": "2025-06-09 22:29:49 -0700",
       "minecraft:ragdoll": "2025-06-09 22:32:57 -0700"
     },
@@ -6390,5 +6385,239 @@
     },
     "done": true
   },
-  "DataVersion": 4440
+  "minecraft:recipes/building_blocks/waxed_exposed_chiseled_copper_from_honeycomb": {
+    "criteria": {
+      "has_exposed_chiseled_copper": "2025-09-27 22:49:18 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_exposed_copper_bulb_from_honeycomb": {
+    "criteria": {
+      "has_exposed_copper_bulb": "2025-09-28 01:03:55 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/orange_dye_from_open_eyeblossom": {
+    "criteria": {
+      "has_open_eyeblossom": "2025-09-28 23:53:12 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/suspicious_stew_from_open_eyeblossom": {
+    "criteria": {
+      "has_open_eyeblossom": "2025-09-28 23:53:12 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-09-29 00:10:23 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_chest_raft": {
+    "criteria": {
+      "has_boat": "2025-09-29 00:10:23 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-09-29 00:10:23 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/pale_oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-09-29 00:10:23 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-09-29 00:10:23 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-09-29 00:10:23 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-09-29 00:10:23 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-09-29 00:10:23 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/cherry_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-09-29 00:10:23 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-09-29 00:10:23 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_string": "2025-09-29 00:20:21 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dye_brown_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-09-29 12:53:35 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dye_brown_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-09-29 12:53:35 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/brown_bundle": {
+    "criteria": {
+      "has_brown_dye": "2025-09-29 12:53:35 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/dye_brown_harness": {
+    "criteria": {
+      "has_needed_dye": "2025-09-29 12:53:35 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_candle": {
+    "criteria": {
+      "has_brown_dye": "2025-09-29 12:53:35 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_brown_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-09-29 12:53:35 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/green_dye": {
+    "criteria": {
+      "has_cactus": "2025-09-29 21:30:41 -0700"
+    },
+    "done": true
+  },
+  "minecraft:end/dragon_breath": {
+    "criteria": {
+      "dragon_breath": "2025-09-29 23:31:52 -0700"
+    },
+    "done": true
+  },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": "2025-09-29 23:32:21 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_lime_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-09-30 16:18:09 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lime_bundle": {
+    "criteria": {
+      "has_lime_dye": "2025-09-30 16:18:09 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lime_candle": {
+    "criteria": {
+      "has_lime_dye": "2025-09-30 16:18:09 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dye_lime_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-09-30 16:18:09 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dye_lime_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-09-30 16:18:09 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/dye_lime_harness": {
+    "criteria": {
+      "has_needed_dye": "2025-09-30 16:18:09 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/dye_purple_harness": {
+    "criteria": {
+      "has_needed_dye": "2025-09-30 16:18:14 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dye_purple_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-09-30 16:18:14 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_candle": {
+    "criteria": {
+      "has_purple_dye": "2025-09-30 16:18:14 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_purple_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-09-30 16:18:14 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dye_purple_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-09-30 16:18:14 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/purple_bundle": {
+    "criteria": {
+      "has_purple_dye": "2025-09-30 16:18:14 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_shelf": {
+    "criteria": {
+      "has_stripped_spruce_log": "2025-10-01 22:53:37 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_crystal": {
+    "criteria": {
+      "has_ender_eye": "2025-10-02 23:12:57 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_ender_eye": "2025-10-02 23:12:57 -0700"
+    },
+    "done": true
+  },
+  "DataVersion": 4554
 }
